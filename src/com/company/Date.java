@@ -54,7 +54,7 @@ public class Date {
         }
 
         //-----------------------------------------------------------------
-        //wyswietlenie, sprawdzenie i przypisanie wartosci do daty 1
+        //wyswietlenie, sprawdzenie i przypisanie wartosci do daty 2
 
         if (isNumeric2){
             monthInt2 = Integer.parseInt(monthString2);
